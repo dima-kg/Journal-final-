@@ -135,7 +135,7 @@ function App() {
                 <BookOpen className="w-8 h-8 text-blue-600" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Оперативный журнал</h1>
+                <h1 className="text-xl font-bold text-gray-900">Оперативный журнал</h1>
                 <p className="text-sm text-gray-600">Ведение записей о событиях во время смены</p>
               </div>
             </div>
